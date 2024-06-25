@@ -49,5 +49,3 @@ Jettison ['dʒɛtɪsn] 抛弃，丢弃。例句：In order to lighten the load, 
 A better governed, more open India would be wonderful. But whether their ambitions are politically feasible is another question. For example, better public services probably mean devolving power from the central and state governments to localities.
 
 Devolve [dɪˈvɒlv] 逐渐转移，逐渐转变。例句：The conversation devolved into an argument.（对话逐渐转变为争吵。）
-
-![image](https://github.com/itpromiseland/tewords/assets/61225865/b4c3f0f3-079f-46d0-bed5-d04f90da4e99)
