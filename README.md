@@ -3,7 +3,8 @@
 请我喝杯咖啡：https://afdian.net/a/tewords
 
 形式如下：
-![image](https://github.com/itpromiseland/tewords/assets/61225865/1dc0a6a3-4398-4050-85f0-bcab5a316435)# tewords
+
+![image](https://github.com/itpromiseland/tewords/assets/61225865/1dc0a6a3-4398-4050-85f0-bcab5a316435)
 
 早起的坏处
 Rare is the chief executive who extols the virtues of a lie-in. Tim Cook, boss of Apple, maker of the iPhone, wakes between 4am and 5am. So does Bob Iger, his counterpart at Disney, a media giant. According to one survey, two-thirds of the chief executives of large American companies are up by 6 o’clock; for average Americans the share is less than one in three. For those aspiring to corporate greatness, the message seems clear: you snooze, you lose.
